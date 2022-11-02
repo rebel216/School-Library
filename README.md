@@ -9,7 +9,7 @@
 
 ## Built With
 
-- Ruby
+
 
 ## Pre-requisites
 
