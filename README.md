@@ -6,11 +6,6 @@
 
 ![uml_class_diagram](https://user-images.githubusercontent.com/30742617/199401674-938ed9ae-11bc-47bd-b381-83ef06d355cf.png)
 
-
-## Built With
-
-- Ruby
-
 ## Pre-requisites
 
 - You need to have Ruby installed on your local machine
