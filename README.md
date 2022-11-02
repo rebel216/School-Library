@@ -4,6 +4,7 @@
 
 > This is an Educational project for the Microverse Module 3 Block 4(Ruby) School library exercise, requirement for the Ruby Module.
 
+![uml_class_diagram](https://user-images.githubusercontent.com/30742617/199401674-938ed9ae-11bc-47bd-b381-83ef06d355cf.png)
 
 
 ## Built With
