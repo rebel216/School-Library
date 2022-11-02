@@ -4,6 +4,7 @@
 
 > This is an Educational project for the Microverse Module 3 Block 4(Ruby) School library exercise, requirement for the Ruby Module.
 
+![uml_class_diagram](https://user-images.githubusercontent.com/30742617/199401306-667c069d-3772-477c-a95e-e5a0c731083b.png)
 
 
 ## Built With
@@ -32,9 +33,9 @@
 
 👤 **Neeraj Bhardwaj**
 
-- GitHub: [@Efiamotu](https://github.com/rebel216)
-- Twitter: [@EFYAMOTU](https://twitter.com/rebel216)
-- LinkedIn: [musa-habeeb](https://www.linkedin.com/in/neerajbhardwaj216/)
+- GitHub: [neeraj](https://github.com/rebel216)
+- Twitter: [neeraj](https://twitter.com/rebel216)
+- LinkedIn: [neeraj](https://www.linkedin.com/in/neerajbhardwaj216/)
 
 ## 🤝 Contributing
 
