@@ -102,7 +102,7 @@ class App
 
     rental = Rental.new(date, book, person)
     puts rental
-    @rentals.push(rental)
+    @rental.push(rental)
     puts 'Rental created successfully'
   end
 
